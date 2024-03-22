@@ -1,0 +1,9 @@
+[submodule "graal_mvp"]
+	path = graal_mvp
+	url = git@github.com:M3SOulu/graal_mvp.git
+[submodule "graal-prophet-utils"]
+	path = graal-prophet-utils
+	url = git@github.com:M3SOulu/graal-prophet-utils.git
+[submodule "graal"]
+	path = graal
+	url = git@github.com:M3SOulu/graal.git
